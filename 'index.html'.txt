@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>QHub</title>
+</head>
+<body>
+  <h1>Welcome to QHub</h1>
+  <ul>
+    <li><a href="privacy.html">Privacy Policy</a></li>
+    <li><a href="terms.html">Terms of Service</a></li>
+    <li><a href="callback.html">Login Callback</a></li>
+  </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>This is the privacy policy for QHub.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terms of Service</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>These are the terms of service for QHub.</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Callback</title>
+</head>
+<body>
+  <h1>World ID Login Callback</h1>
+  <p>You have logged in successfully.</p>
+</body>
+</html>
